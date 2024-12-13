@@ -18,7 +18,7 @@ Data Drive System is a web-based file management system built using Django. It a
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/nawaz-07/Data-Drive-System.git
+    git clone https://github.com/Abhigrd98/drive_demo.git
     cd data-drive-system
     ```
 
