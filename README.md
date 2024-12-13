@@ -25,8 +25,8 @@ Data Drive System is a web-based file management system built using Django. It a
 2. Create a virtual environment and install dependencies:
 
     ```bash
-    python -m venv venv
-    Windows: venv\Scripts\activate
+    python -m venv data-drive-system
+    Windows: data-drive-system\Scripts\activate
     ```
 
 3. Apply database migrations:
